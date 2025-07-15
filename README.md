@@ -28,7 +28,7 @@
 
     </td>
     <td width="40%" align="center">
-      <img src="assets/profile.png" alt="Prathyusha's photo" width="150px" style="border-radius: 10px;" />
+      <img src="assets/coding-girl.png" alt="Prathyusha's photo" width="150px" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>

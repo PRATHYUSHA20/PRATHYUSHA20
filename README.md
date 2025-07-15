@@ -96,7 +96,6 @@
 <ul>
   <li><a href="#"> AI Assistant web searching</a> - Scikit-learn, PyTorch, Keras, Tensorflow, NLTK, etc.</li>
   <li><a href="#">Face & Text classification using CNN</a> - Python, PyTorch, CNN, Minimax, Matplotlib</li>
-  <li><a href="#">COVID Tweet-Sentiment (Dual Model Analysis of the Pandemic)</a> - DistilBERT, Naive Bayes, Transformers, NLP</li>
 </ul>
 
 

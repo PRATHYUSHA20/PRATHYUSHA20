@@ -94,31 +94,31 @@
 
 <h3>🤖 AI, NLP, LLMs</h3>
 <ul>
-  <li><a href="#"> AI Assistant web searching</a> - Scikit-learn, PyTorch, Keras, Tensorflow, NLTK, etc.</li>
-  <li><a href="#">Face & Text classification using CNN</a> - Python, PyTorch, CNN, Minimax, Matplotlib</li>
+  <li><a href="https://github.com/PRATHYUSHA20/AI_PROJECTS/tree/main/ai-assistant-web-searching-master"> AI Assistant web searching</a> - Scikit-learn, PyTorch, Keras, Tensorflow, NLTK, etc.</li>
+  <li><a href="https://github.com/PRATHYUSHA20/FACE_AND_TEXT-CLASSIFICATION-USING-CNN">Face & Text classification using CNN</a> - Python, PyTorch, CNN, Minimax, Matplotlib</li>
 </ul>
 
 
 <h3>🔐 Cryptography</h3>
 <ul>
-  <li><a href="#">Lightweight Encryption Methods for Protecting Medical Imaging Data in IoMT</a> - Crypto, PyCrypto, OpenCV, RSA + AES</li>
-  <li><a href="#">Graphical password authentication to avoid shoulder surfing</a> - Crypto, PyCrypto, OpenCV, RSA + AES</li>
+  <li><a href="https://github.com/PRATHYUSHA20/AI_PROJECTS/tree/main/ai-assistant-web-searching-master">Lightweight Encryption Methods for Protecting Medical Imaging Data in IoMT</a> - Crypto, PyCrypto, OpenCV, RSA + AES</li>
+  <li><a href="https://github.com/PRATHYUSHA20/PAASWORD-AUTHENTICATION-USING-PASS-MATRIX-TO-AVOID-SHOULDER-SURFING">Graphical password authentication to avoid shoulder surfing</a> - Crypto, PyCrypto, OpenCV, RSA + AES</li>
 </ul>
 
 <h3>📊 Data Science, ML, DL</h3>
 <ul>
-  <li><a href="#">Product Recommendation System</a> - Scikit-learn, Matrix Factorization</li>
-  <li><a href="#">Heart Attack Detection</a> - Keras, Sequential Model</li>
+  <li><a href="https://github.com/PRATHYUSHA20?tab=repositories">Product Recommendation System</a> - Scikit-learn, Matrix Factorization</li>
+  <li><a href="https://github.com/PRATHYUSHA20/AI_PROJECTS/blob/main/Heart_Attack_detection.ipynb">Heart Attack Detection</a> - Keras, Sequential Model</li>
 </ul>
 
 <h3>💾 Data Engineering</h3>
 <ul>
-  <li><a href="#">Real-Time Event Processing with Azure Event Hub & Apache Kafka</a></li>
+  <li><a href="https://github.com/PRATHYUSHA20/AI_PROJECTS/tree/main/Real-Time-Event-Processing-System-main">Real-Time Event Processing with Azure Event Hub & Apache Kafka</a></li>
 </ul>
 
 <h3>🔍 Research</h3>
 <ul>
-  <li><a href="#">Cognitive Computing: The Future of Augmented Intelligence</a></li>
+  <li><a href="https://github.com/PRATHYUSHA20?tab=repositories">Cognitive Computing: The Future of Augmented Intelligence</a></li>
 </ul>
 
 <h3>🎯 Currently Building</h3>

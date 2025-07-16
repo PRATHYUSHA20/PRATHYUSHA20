@@ -22,14 +22,14 @@
   <a href="mailto:pthumma@iu.edu"><img src="https://img.shields.io/badge/Outlook-blue?style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://leetcode.com/YOUR-LEETCODE/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"></a>
-  <a href="https://kaggle.com/YOUR-KAGGLE"><img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle"></a>
+  <a href="https://www.kaggle.com/reddyprathyusha"><img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle"></a>
   <a href="https://medium.com/@yourprofile"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium"></a>
 </p>
 
-    </td>
     <td width="40%" align="center">
-      <img src="assets/coding-girl.png" alt="Prathyusha's photo" width="150px" style="border-radius: 10px;" />
-    </td>
+  <img src="assets/coding-girl.png" alt="Prathyusha's photo" width="150px" style="border-radius: 10px;" />
+</td>
+
   </tr>
 </table>
 ---
